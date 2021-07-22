@@ -1,4 +1,5 @@
-# montyhall
+# Monty Hall
+Projeto feito com orientação de professor.
 
 ## Project setup
 ```
